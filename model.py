@@ -1,8 +1,10 @@
 from tensorflow import keras
 import numpy as np
 from keras.utils import np_utils
+from keras.callbacks import ModelCheckpoint
+from tensorflow.python.keras import callbacks
 
-raw_texts = open("./tweets/lfact.txt").read().lower()
+raw_texts = open("wonder.txt").read().lower()
 
 unique_chars = sorted(list(set(raw_texts)))
 
@@ -19,7 +21,8 @@ data_y = []
 
 for i in range(0, n_chars - seq_len, 1):
     seq_in = raw_texts[i:i + seq_len]
-    seq_out = raw_texts[i + seq_len]
+    seq_out = raw_texts[i+seq_len]
+    # print([char for char in seq_in])
     data_x.append([chars_to_int[char] for char in seq_in])
     data_y.append(chars_to_int[seq_out])
 
@@ -43,4 +46,10 @@ model = keras.Sequential([
 
 model.compile(optimizer="adam", loss="categorical_crossentropy")
 
-model.fit(X, y, epochs=20, batch_size=128)
+# define model checkpoint to not lose training line
+filepath = "model-improvement-{epoch:02d}-{loss:.4f}.hdf5"
+checkpoint = ModelCheckpoint(
+    filepath=filepath, monitor="loss", verbose=1, save_best_only=True)
+callbacks_list = [checkpoint]
+
+model.fit(X, y, epochs=20, batch_size=128, callbacks=callbacks_list)
