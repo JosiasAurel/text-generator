@@ -10,3 +10,13 @@ with open("./tweets/lfact.txt") as f:
 
 _train = []
 train = []
+
+for i in data:
+    sp = i.split(" ")
+    _train.append(sp)
+
+for i in _train:
+    for j in i:
+        train.append(str(j))
+
+chars = sorted(set(train))
