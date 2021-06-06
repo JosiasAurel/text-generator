@@ -1,5 +1,6 @@
-# from tensorflow import keras
+from tensorflow import keras
 import numpy as np
+from keras.utils import np_utils
 
 raw_texts = open("./tweets/lfact.txt").read().lower()
 
@@ -39,3 +40,7 @@ model = keras.Sequential([
     keras.layers.Dropout(0.2),
     keras.layers.Dense(units=y.shape[1], activation="softmax")
 ])
+
+model.compile(optimizer="adam", loss="categorical_crossentropy")
+
+model.fit(X, y, epochs=20, batch_size=128)
