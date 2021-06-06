@@ -1,4 +1,5 @@
 # from tensorflow import keras
+import numpy as np
 
 raw_texts = open("./tweets/lfact.txt").read().lower()
 
@@ -17,8 +18,17 @@ data_y = []
 
 for i in range(0, n_chars - seq_len, 1):
     seq_in = raw_texts[i:i + seq_len]
-    seq_out = raw_texts[i+seq_len]
+    seq_out = raw_texts[i + seq_len]
     data_x.append([chars_to_int[char] for char in seq_in])
     data_y.append(chars_to_int[seq_out])
 
-print(len(data_x))
+n_patterns = len(data_x)
+
+# reshape samples to have the shape [sample, time_steps, features]
+X = np.reshape(data_x, (n_patterns, seq_len, 1))
+
+# normalize the data
+X = X / float(n_vocab)
+
+# one-hot encode output variable
+y = np_utils.to_categorical(data_y)
