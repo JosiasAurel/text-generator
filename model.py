@@ -32,3 +32,10 @@ X = X / float(n_vocab)
 
 # one-hot encode output variable
 y = np_utils.to_categorical(data_y)
+
+# the model -> LSTM
+model = keras.Sequential([
+    keras.layers.LSTM(256, input_shape=(X.shape[1], X.shape[2])),
+    keras.layers.Dropout(0.2),
+    keras.layers.Dense(units=y.shape[1], activation="softmax")
+])
