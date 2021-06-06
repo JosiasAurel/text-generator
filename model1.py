@@ -20,3 +20,19 @@ for i in _train:
         train.append(str(j))
 
 chars = sorted(set(train))
+
+chars_val = dict((char, index) for index, char in enumerate(chars))
+
+token_values = [i for i in chars_val.values()]
+
+print(token_values)
+
+model = keras.Sequential([
+    keras.layers.LSTM(1)
+])
+
+model.compile(optimizer="sgd",
+              loss=keras.losses.CategoricalCrossentropy(from_logits=False))
+
+
+model.fit(token_values)
