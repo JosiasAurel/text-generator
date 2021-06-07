@@ -46,10 +46,13 @@ model = keras.Sequential([
 
 model.compile(optimizer="adam", loss="categorical_crossentropy")
 
+"""
 # define model checkpoint to not lose training line
 filepath = "model-improvement-{epoch:02d}-{loss:.4f}.hdf5"
 checkpoint = ModelCheckpoint(
     filepath=filepath, monitor="loss", verbose=1, save_best_only=True)
 callbacks_list = [checkpoint]
+"""
 
+int_to_char = dict((index, value) for index, value in enumerate(unique_chars))
 model.fit(X, y, epochs=20, batch_size=128, callbacks=callbacks_list)
