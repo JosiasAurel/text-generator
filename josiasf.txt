@@ -1,4 +1,4 @@
-V8 or SpiderMonkey?
+ÔªøV8 or SpiderMonkey?
 Left is Chrome and Right is Firefox
 I built an app using serverless functions and MongoDB and it works.
 If you call an async function without await and try awaiting the result, use double await like this.
@@ -274,7 +274,7 @@ ls
 clear
 mkdir
 cp
- &lt;footer&gt; © {Date().getFullYear()} ACME&lt;/footer&gt;
+ &lt;footer&gt; ¬© {Date().getFullYear()} ACME&lt;/footer&gt;
 Are you using serverless functions too and want to know more about them ? This article can be very helpful
 A suggestion :
 Add 'scroll-behaviour: smooth;' on body style . This will make that when we click the contact section, it will scroll smoothly rather than jumping directly until there.
@@ -329,7 +329,7 @@ I created a template repository for express serverless functions on vercel inspi
 New post alert 
 Guys I am going to not be active as from today henceforth. I'll be busy with school than usual (1-2weeks). See you in the mean time . Peace and love
 I've come across this nice post on how to reduce the node_modules folder size . Very useful
-ìWork hard in silence, let your success be the noise.î ñ Frank Ocean
+‚ÄúWork hard in silence, let your success be the noise.‚Äù ‚Äì Frank Ocean
 What Google analytics alternative do you recommend ?
 Experimenting with draggable elements for touch screen.
 You are awesome. Keep that in mind
@@ -362,8 +362,8 @@ Do you usually make use of some DOM APIs like localStorage or any other directly
 - Stack overflow I not always the source to my solutions
 Hey guys I am back.
 Motivational Quote of the day
-ìThe secret of getting ahead is getting started.î 
-ñ Mark Twain
+‚ÄúThe secret of getting ahead is getting started.‚Äù 
+‚Äì Mark Twain
 Good morning guys. Have a great sunday
 - Making a website for my school
 What about you  ?
@@ -719,7 +719,7 @@ I just went through this. It looks like flask but using async Python.
 Get all the keywords in python
 I had left of for a long moment but back. Or maybe not ?
 It looks simple - the way I like it
-The Schrˆdinger's code: Your code won't break until you test it.
+The Schr√∂dinger's code: Your code won't break until you test it.
 Do you code on phone ? Android ?
 It's the best REST API client I've ever used. It feels like postman.
 This is just amazing 
