@@ -1,0 +1,1043 @@
+V8 or SpiderMonkey?
+Left is Chrome and Right is Firefox
+I built an app using serverless functions and MongoDB and it works.
+If you call an async function without await and try awaiting the result, use double await like this.
+Easily sum an array of number in JavaScript
+What's the worst thing you think you have ever done as a developer ?
+Have a great Sunday friends.
+Okay it needs to load ~114mb resources 
+Memory is 196718592
+Abstract Base Class sometimes known as ABC is a similar replacement to interfaces in languages like Java and Typescript
+Here is a post introducing you to it 
+It is important to note this is done on an Intel Pentium Gold (2019 edition) under WSL1, Ubuntu
+I will be uploading new tests here 
+I am testing compiled languages. Just curious to know how they all perform.
+In this screenshot is a test of calculating the first 40 Fibonacci series in C, C++ and Rust. 
+Guess the output.
+Explanation is a plus 
+Source : 
+I am a Developer looking for the unnecessary semicolon in my Python code
+To be clear I am just interested in how it works
+Python.
+Recommend your favorite book / podcast / Netflix show / movie
+Is there a time here where nobody tweets about javascript ?
+Still some small issues here and there
+Typescript can compile to wasm and Native Code using some additional compilers and tooling
+Just started using obsidian and I like it
+Doing this on a 4GB Ubuntu Droplet on Digital Ocean
+And got &gt; 30 users in less than 2 days
+Doing some art with python and math
+Good morning and happy Sunday twitter
+Deployed for the first time on streamlit 
+Convert to images to pencil sketch
+Guess the output 
+Comment your answer
+I'll give you atleast a 7
+Learn about abstract base classes in python
+Tech used:
+NextJS and React, Express, MongoDB, Serverless functions
+You will learn the most through practice.
+Practice, fail and learn from your failures.
+I have a huge legacy JS codebase here to rewrite in Typescript and am only excited to get time for that.
+Already got 21 registered users and 32 upvotes on product hunt. This is so good.
+If you want to register, here is the app:
+Sharing my first collection to the public. Some free hosting services for you 
+It's an app that helps you organise your links under collections
+Today I launched on product hunt for the first time
+The 'h' in software development stands for happiness.
+What is the most underrated thing in software development ?
+JavaScript sucks.
+I got to try Arduino for the first time with a friend but couldn't not get my code on the board when using my PC (Seems Arduino IDE drivers certificate was outdated on Windows -&gt; expired in 2017)
+It was fun having a try though
+What will be the output ?
+This is much more correct method
+Google created Go while waiting for their C++ code to compile.
+Nah, I mean cooking copy pasta
+Avoid the temptation to use code off the internet.
+Hey twitter
+The GraphQL API doest work at time tho
+How is your day going on ?
+- Great way of fetching data
+- API functions
+- SSR/SSG
+- It's fast
+- Next and easy to deploy
+- Good error messages
+Did you know there was a dialog HTML element which make it easy to create modals ?
+Here is a demo
+CSS
+NextJS
+Typescript
+FastAPI
+Apollo server
+Apollo client
+Sqlite3
+MongoDB
+Serverless
+Also get it on gumroad.
+You can get a copy of my personal site for just $5 .
+Let's see how it goes ;)
+I read on a post ReLU is way better activation function that sigmoid and hyperbolic tan . I tend to experiment more with ReLU now. What would you recommend and what might be some sample cases where they each fit best ? I might be asking much.
+New post alert
+Create and serve a machine learning model with tensorflow, flask and Python
+Google Colab is so good. 
+Yesterday I started going through tensorflow docs again 
+Here is a small gist I wrote
+Here is the gist 
+ Hoping to see more posts from you.
+The post had interesting resources.
+Did you know your functions could take parameters in backticks?
+No? Well, now you should know.
+You can take arguments in backticks just like in styled-components.
+Since they are template literals, they can therefore span over multiple lines. 
+I tend to code the logo with HTML and CSS, then I use a background remover so I get the logo outline only. Works most of the time and they are usually simple.
+Some awesome makers I have found on Twitter recently
+You guys are rocking.
+I want to follow more makers. Let me know in the comments
+Ps: joke. 
+You won't want to use this nowadays (deprecated ?)
+Pressed CTRL+A and DELETE
+- Build projects
+I really like the code by hand part. Vim is cool for it too
+But looks like verbose javascript ternary operator in python.
+In JavaScript it would have been 
+is_raining ? "Stay at home" : "Go for a walk"
+*laughing in vim*
+Happy International Women's Day
+Here is my portfolio
+Consider the sample below: 
+We create two functions each which will take arguments of variable length and keyword arguments.
+We notice that with a single asterisk, we get a tuple containing our values.
+All parameters preceded by a double asterisks like such : **kwargs
+are considered keyword arguments. 
+In this case, the arguments will have specific keywords it .
+ The function will therefore receive the arguments in the form of a dictionary (key value pairs) of values.
+*args and **kwargs are a special way in python for passing arguments.
+A parameter in a function preceded by a single asterisk in python denotes the function will take an argument of variable length.
+When consumed by the function, the function will get a tuple.
+What is the difference between *args and **kwargs in python ?
+This is what this thread is all about.
+Sometimes you will want your function to be able to take several arguments at once. *args and **kwargs are here to save you.
+The function name is String too
+You get native code by your side because the code in it is a native one for converting different types to strings
+Guess the ouput
+I saw in a video they are related to device drivers of old windows versions (windows having backwards compatibility).
+But what about things like articles or videos explaining how using this method for determining soil type work ?
+I'll be interested in those too
+Have you tried the intersection Observer API ? This is helpful to determine whether an object is being viewed (in viewport) .
+I made a simple app that will convert audio to text transcript.
+I tried building something similar (think I have to add similar features too)
+Don't directly pass values in SQL commands in python. This helps fight against SQL injection.
+Rather pass a tuple containing the variable values as a second argument to cursor.execute()
+The trailing comma is used to tell Python it is a tuple.
+The weekend is here.
+Happy Saturday everyone
+Just tried out Netlify functions and they are good.
+To access the value, we use .value on the enumeration.
+Like in our example,
+To access our enums, we use a syntax of the form ENUMCLASS.ENUMVARIABLE 
+Note that you could also access it as such
+ENUMCLASS['ENUMVARIABLE']
+Like in our example, it was
+But using this returns to us a representation of the enumeration
+Subclassing a class simply mean ; getting all the attributes/abilities and methods of the parent class. In this case, we get all of the abilities of the Enum class.
+You can then defined the variables inside the class which will contain the enumeration values. It is considered good practice to name your enumerations using uppercase letters.
+To use it, you first import the Enum class from enum in python. You then create a class which will contain your enumerations. You can name it anything as long as it subclasses the Enum class.
+Did you know you could use enumerations in python. 
+Python has a built-in in class just for that which you can subclass to create enums. No need of __init__() method.
+Thread
+"All it takes is leap of faith" 
+Believe in yourself
+If you liked this, share .
+Testing is a really essential part of software development. 
+Pytest has made it really easy for us to test our python code. 
+What wil happen if we modify the hello_name() function return value without editing our test function ?
+After executing the function, by running 
+Where filename is the file containing your test,
+It will return to us the results of the test that is, whether it was successful or not.
+First of all, we create a function which we probably want to test.
+We can then write another function that has to be executed for the test. Pytest will require such functions to begin with the *test* keyword so it will know it has to execute it.
+This is the most basic test you can ever write in Pytest. 
+Lets us see how it works
+There are a number of datatypes you can choose from for your NumPy arrays. Here you will find many of them from the official NumPy documentation
+If you are asking yourself about the dtype="&lt;U11" in the last example. This just tells you that it is an 11 character Unicode string.
+When it contains integers and strings, floats and string or integers, floats and strings all in one, all of the non-string values will be converted to strings automatically.
+When a list contains floating-point values along with integers, NumPy will automatically convert all integers to floating-point values.
+Numpy will convert python list to NumPy array easily by just using the np.array() method. You can always specify a second keyword argument telling it the final datatype of its content.
+Numpy is a really essential tool in data science. It may be particularly useful for converting a normal python list to a faster NumPy array. Here is a snippet of how to do so.
+This is awesome. You are going to like it so much
+Today I used GitHub API and built this app 
+It allows to view your GitHub profile as a card. All you need to enter is your username.
+Work intelligently, work hard.
+I am starting to heavily prefer Typescript over javascript.
+Create and publish code snippets 
+I built an app to create and publish code snippets.
+ Here it is
+Also the last print functions should be all lowercase and should not start with uppercase letter.
+Day 2 of working on this
+Devs thinking PHP is cancer lol
+The code is just a sample of how to display a progress bar using a Python library called tqdm.
+Looking for datasets for your next ML project ?
+Google has a cool search tool for finding datasets.
+Thank you
+Not everyone will want a PayPal account (and it doesn't work in my country and many others)
+. 
+Stripe is good.
+A little better but the verification process makes me discard it (not in my country either)
+What solutions do you use to accept payments in your projects/apps ?
+The downside my be for those not knowing ternary operator
+Talk like you are a CEO.
+ This is so good
+Phone : *you have less than 1GB free space*
+Me : *deletes node_modules in 5 projects*
+Phone : *you have 5GB free space*
+Still a little misleading tho
+npx create-react-app my-app
+*deletes all files except package.json and package-lock.json + node_modules*
+npm i next
+*creates pages folder with index.js and hello world message*
+*Terminal says react not found*
+Is this supposed to be as such ?
+Creating your own elements looks a good idea imo.
+Again I will be using vanillajs, HTML and CSS (which is really good performance wise)
+New post alert
+Create your own HTML element from scratch
+What do you prefer to use for SQL ?
+What are you working on ?
+Blogging will also open opportunities for you
+Don't doubt yourself dear.
+Best of luck
+I haven't published in a long time now. 
+New post alert :
+I spent 30mins+ not understanding why my c++ code was not compiling, just to realise i was using gcc instead if g++ to compile XD
+How many empty tabs do you have open right now. I'll start 
+6
+I just figured out cloud functions have a read-only file system.
+Learn to say "no".
+I found this post very interesting on the importance of saying no.
+num.pop() removes and returns the last element of the array (in this case 9)
+num.push(num.pop()) will add 9 to the end of the array.
+num.push(num.push(num.pop())) will return the length of the array which is 3 and push it
+Therefore the array will now [3, 6, 9, 3]
+Will you use a messaging app that
+Store messages
+I made a blob maker with HTML CSS and JavaScript. 
+It uses border-radius property.
+Started making this article preview component challenge. 
+It comes and goes.
+Facebook
+Amazon
+Netflix
+Microsoft
+Apple
+Airbnb
+Google
+You have reached the end of this thread.
+get time on other locations.
+Example :
+you can translate any word directly in a Google search by searching for your word followed by *in &lt;your-language&gt;*
+Example : 
+savon in english
+You can search for a specific filetype on Google. E.g searching for an ebook in pdf or epub format by specifying the *filetype*.
+Example 
+Eloquent Javascript filetype:pdf
+you will get results with the specified format
+You can search weather for your location simply by typing 
+Weather &lt;your-city-name&gt;
+You will get the current weather and weather forecast.
+Did you know you could make Google to have search two things at a time ? 
+Example :
+"how to be popular on twitter" OR "how to get 1k followers in a day".
+This will make google to search either of them and give you a corresponding result.
+Ever come in a situation you can't remember on which page of a site you saw that word ? or you are looking for a place a site mentioned a word
+You can search for a word and specify the site from which the result should be gotten.
+In order to search for some terms exactly as they are, you can wrap them into quotes . Example : searching for "pink car" and pink car may give different results. The later may give some *similar* while the first will give an exact result.
+Most of you may know you can get to convert values in different units very quickly by Googling it. For example Googling 77 degree celsius to Farhenheit will get you the conversion done. You will also have a converter to easily convert any values you wisth again.
+Other than performing simple calculations, you could also write trigonometry problems in  your search bar and get back an accurate graph displaying the solution.
+Here are some useful Googling tricks for you
+They will help your search on Google faster and more efficiently.
+Thread !
+Looking to make a your first open source contribution ?
+GitHub has a repository to help you 
+How often of you use calc() in CSS ?
+Hey guys . Sorry for not being that active the last few days. As from today i will be focusing on improving my design skills (mostly in CSS). I will keep you updated on what i have done.
+What feature do you want to be on Twitter ?
+Just javascript
+New post alert . Please make sure to check it 
+I was reading through some open source code and came across semicolons at the beginning of some lines.
+I found this article interesting about it
+This is the beginning of a new year. 
+Make your dreams come true. 
+cd
+mv
+ls
+clear
+mkdir
+cp
+ &lt;footer&gt; © {Date().getFullYear()} ACME&lt;/footer&gt;
+Are you using serverless functions too and want to know more about them ? This article can be very helpful
+A suggestion :
+Add 'scroll-behaviour: smooth;' on body style . This will make that when we click the contact section, it will scroll smoothly rather than jumping directly until there.
+I just deployed microsoft web dev for beginners course. 
+Its free to use 
+You saying you will start building that project next year. Why not start now ? Starting now is best isn't ?
+I like the new vercel image component. I just updated my site. It is faster imo. Have a look .
+Your CSS arts have inspired me alot to improve my CSS skills.
+"The best thing about modern development is that there is a tremendous amount of available resources. The worst thing about modern development is that there is a tremendous amount of available resources."
+Did you know javascript allowed you to evaluate mathematical operations easily ?
+i love to hate javascript
+I am going to make use of my weekend for this. I guess I also improved compared to my past videos on my old channel (deleted). I have some questions though
+- Which editing software will you recommend me 
+- What can I use for thumbnails
+If you encounter problems, just push yourself back and think about it. Think about a different approach to solve the issue you have. Google it, look for solutions. If you can't find one. Take a break. 5-10 mins and think.
+Trust yourself, even when no one does.
+Be awesome.
+Make yourself proud . 
+What if GitHub had a chat option.
+I created a python program to convert image to sketches. Its just about 4 lines using OpenCV. Results are not bad.
+New post alert 
+How is your experience using it ?
+I am going to try making such an awesome site too. 
+Awesome work
+Looking for a way to implement authentication with NextJS easily ? 
+Keep being awesome .
+Age++
+I also started learning web Frameworks and how to use Django for web development. 
+Round 1 got me deep!
+The round 2 of the challenge is over. Here is what i got
+- More in React and GraphQL
+- NextJS
+-  TypeScript
+- Creating cloud functions (serverless functions)
+- Use mongoose and mongodb
+- Implement jwt auth
+- hardwork pays and more...
+Thanks to y'all
+Successfully deployed a NextJS &amp; TypeScript Project to Vercel and making use of serverless functions :happy:
+This information you provided make it clearer to see lambda
+Spent more than 10 minutes not understanding why my graphql query was not working just to discover i did not include subfields. I though it was typescript
+GeeksforGeeks
+Fun fact : I write bugs, they are so cool they are called features.
+Rise up, start fresh see the bright opportunity in each day
+&lt;HelloWorld /&gt; twitter community
+New post alert
+Like and share
+Check it out
+Don't compare yourself to others. It might cause some feeling of unhappiness.
+Every single steps, small or big counts.
+I created a template repository for express serverless functions on vercel inspired from the docs.
+New post alert 
+Guys I am going to not be active as from today henceforth. I'll be busy with school than usual (1-2weeks). See you in the mean time . Peace and love
+I've come across this nice post on how to reduce the node_modules folder size . Very useful
+“Work hard in silence, let your success be the noise.” – Frank Ocean
+What Google analytics alternative do you recommend ?
+Experimenting with draggable elements for touch screen.
+You are awesome. Keep that in mind
+Still working on ome of my projects (getting more and more busy)
+Also learning about Data clustering 
+- Clustering types
+- K-means clustering
+"Hard work beats talent when talent doesn't work hard"
+New post 
+Still struggling to center that div ? 
+Did you know HTML has a tag just for centering elements ?
+Try this 
+What do you use most in CSS
+I revised some CSS and work on a simple page. I also created a script to fetch code challenges from codewars.
+I didn't code much these last 3 days. 
+Today I write 2 more blog posts (getting there) and published on my blog. I also update my website/blog .
+I just cross-posted on hasnode and dev .to 
+Finally worked on improving the header links and projects page of my site .
+No question is stupid ! Ask your questions.
+I worked for about 3 hours on my project. I encountered alot of issues especially with sqlalchemy and flask. I think of now using flask_sqlalchemy soon.
+I have been working on a project. Also today I made script to modify subtitle file for the movie I was watching (subtitles were retarded). 
+console. group() and console.groupEnd() are especially usefulness for leveling errors
+Are you just getting into tech ?
+This blog post is a very nice one 
+The writer summarises his journey and how he went from a total beginner to building his first product - all in 6 months.
+It's name : spck editor. You can find it on the Google play store
+Do you usually make use of some DOM APIs like localStorage or any other directly in React or use a react library for that ?
+- I don't drink coffee too
+- I don't write tests
+- Stack overflow I not always the source to my solutions
+Hey guys I am back.
+Motivational Quote of the day
+“The secret of getting ahead is getting started.” 
+– Mark Twain
+Good morning guys. Have a great sunday
+- Making a website for my school
+What about you  ?
+And to all other Indians too
+Happy Diwali to all my Indian friends and followers 
+And any other person not mentioned 
+Write maintainable code .
+If you were to use a backend framework, what will you go for ?
+Reasons are welcomed + any other not mentioned
+How is it going ?
+I restarted a project from scratch. That's a big deal to rewrite everything. My target is having something better.
+Completed 3 of my daily task 
+Sent a PR for my first serious open source contribution
+Which database do you use most or consider using ?
+Comment for others
+When working on a solo project, do you add documentation ?
+Make yourself a favour and scroll to the last part where they are actually mentioned
+Which do you use for your python servers ? If possible, give a "why"
+Happiness is not about success.
+Happiness is success.
+Do you like debugging with console.log() ? JavaScript provides some other methods to make your life easier
+You can group your errors
+YOU ARE GREAT.
+Keep this in mind.
+Peace and Love !!
+What useful python tricks, tips and concepts people are unaware of ?
+My current Twitter interaction circle. Do you remember this trend ?
+Awesome tools I use
+What do you use ?
+JavaScript : Eloquent JavaScript
+Next year I should have completed :
+- Made and published a very useful python library or program
+- Made a complete basic game 
+ Alot to keep me working. Even if I don't finish them all. It's ++
+Let's recap. This means that the computer learns to solve the problem (Y) by finding a pattern in the test data to yield a model (equation) to get to an answer using a given value or data (X).
+Now the computer has gotten a pattern from test data by trial and error until it got something with a certain level of accuracy. 
+ The example above is supervised learning (learning from test data with answers )
+Then it finds the pattern in it all by itself by trial and error until it gets the most precise value as possible to the solution.
+It ends up with an equation that can give a value close to the the answer. Here the equation represent the model).
+Now the computer ...
+You have gone through two possible values X and Y and found that Y = 2X+3.
+Now you want the computer to find the pattern too and solve the problem .
+That's where machine learning comes in.
+You first train it with some test data and give it the answers. Then it finds ...
+Machine learning! How I understand : 
+Example : 
+Think of two having a value X and you want to get Y. And to get Y, You have to do something with the value of X. E.g Y = 2X + 3 . So given values of X (repenting the problem), you need to get Y (representing the solution) 
+Thread
+"The sky is not more the limit, if we have footprints on the moon"
+Have a good day guys
+How many tabs do you have open right now
+There are two ways to write error-free programs. Only the third one works
+Do you use any React UI libraries ?
+I am learning how to implement token based authentication (this is the second time ) .
+It's Monday. Happy week
+I hope it will help
+Unfortunately this looks best on Mobile. I'll fix that ASAP
+What are you working on recently ?
+Solved a coding problem on codewars - eventually found a better solution . Relearned about destructuring in python *args .
+Making some progress on my Django app. I also started building another app with Nodejs. I have already implemented full CRUD with expressjs
+B : 6
+C : 6
+D : fivefive
+E : true 
+All that if I am not wrong
+Which method do you use most for authentication in your apps. And also do you recommend any ? Just curious !
+Is it me or Wikipedia id down ?
+The poll is over. 5 votes, majority wins..I'll be showcasing more of projects now. Sometimes code snippets 
+I wonder why I have so many followers. I wish to know why you follow me as well as what you want me to tweet most about. Please comment
+Learn about JavaScript call function. Short example :
+Solved two basic coding problems and also started learning more about GraphQL
+Motivation will get you started, but discipline will get you far - Work !
+Ever came across .[name]rc file ? Like .vimrc, .eslintrc ?
+Going to be building this with vanilla js
+Bust what is XSS
+Learning about algorithms and data structures is an essential thing to grow as a developer. This will help you alot.
+This repo will help you leave from a beginner to a advanced JavaScript developer
+Want to improve your JavaScript ? Here are awesome repos to help you 
+Please don't forget to CTRL+S
+How do you handle/manage users and resources (e.g books) in your MongoDB database ? I wish to get your opinion - also this could be helpful to others. Please RTs 
+Or you can install it directly in termux this way :
+- $ pkg install nodejs
+- $ npm i -g yarn
+- $ yarn global add code-server
+You can then launch it anywhere by typing code-server and opening the link .
+I used JavaScript array sort method for the first time today
+Built an app that shows of your GitHub repos from username 
+Learned some more flask
+Have you ever had that feeling when coding where you start getting annoying errors and you try your best for sometime just to notice you didn't close a bracket ? Yeah, it hurts
+You can't have good code without having bad code. You have to improve on the bad one
+I mostly target the creation and deletion of files in a repo using GitHub API
+Hello guys. Please I need your help. What are the actions you can take with the GitHub API. Can you manage creation and deletion of files in your repo etc. Please help !
+How much do you love coding ? Just curious !
+I don't like passwords
+The official flask documentation is also very useful.
+Hey guys
+Your weekly challenge is to train machine learning model to recognize dogs with this :
+Why do you even JavaScript ?
+I just pushed some code. Here is a simple weather API that you can use in your app. Contributions are welcome to make it better . You may start by adding ability to get weather through IP address.
+The never type in typescript." This is for things that never happen"
+I published a version of TensorFlow for the browser that can be installed as an npm module. You'll have to use a bundler or load the package from node_modules. 
+Link : 
+Got back at improving my URL shortener app and started using Trello seriously. 
+"You'll understand the importance of Trello when your project gets bigger " --Said someone 
+This is a list containing lost of free to use ressources for use developers. You can find what you need here 
+Built a couple of basic kivy apps in python
+Also learnt how to make this scroll effect
+You precise the encoding of your Python file with this comment structure :
+A major skill a developer has is problem solving.
+Made a CSS Google logo.
+Built a few Python programs for refresh
+Going through Google codelabs for TensorFlow basics with python
+I personally prefer Vue, but I use React
+Debug the debugging tools
+Most of what you want to learn, you can get started by a single Google search, you'll will choose what fits you. 
+This twitter community have been really helpful to me and many others too. I say a big THANKS to y'all and for your support.
+In case you prefer books, just a fast Google can help you find a free ebook to help you. 
+E.g Learn Python pdf (yeah it's bad googling but it works).
+Most of the times I go to pdfdrive and I get quality free ebooks. This is very valuable
+Python - related
+HTML related : 
+CSS related : 
+JavaScript related : You can learn alot from sites like 
+Rip tutorial.
+Similar to goalkicker, they provide you programming books but those are compiled from stackoverflow docs archive. They may be helpful to you 
+Goal kicker provide you with nice for-professionals notes to learn from, compiled from stackoverflow docs 
+Here you'll find alot of tutorials for many different kinds of projects. There you can write what you learn too and learn from others..it's a good community to learn from
+This is one good platform to get started in programming. They provide courses for a myriad of programming languages too. They also offer a free certificate of completion for each course. They give you bit sized exercises after each lessons. 
+This is one platform I've been using to get started programming. They provide a free courses for a good number of programming languages as well as exercises after each lessons. They also offer a free certificate to add to your resume
+This is a really awesome platform for anyone wishing to start out web development specially. Using this platform will greatly help you to leave from beginner in Programming to a full stack developer (provided you follow all materials)
+Coding have been my hobby for sometime now and I've learned that alone using FREE resources I've found out there online. I've not paid in learning any of what I have till now (except in internet connection). This thread aims at providing them to you.
+Detect device type in python . I created a GitHub repo with a basic example : 
+Working on a project.
+Started using Pipenv seriously. It's cool but I sometimes get weird errors
+Made my second Twitter header in CSS.
+Started learning to use parcel bundler for a project with NodeJS.
+Relearning how to use NodeJS standard library
+I haven't been very active here and it may continue for a while.
+I learned how to use parcel to bundle source and also started making some improvement on my apps homepage
+S
+Learned how to implement basic authentication in Django.
+Worked with NodeJS on one of my apps.
+Also got to hear about some VanillaJS functions : setAttribute() and getAttribute()
+Continued working on one of my projects with Django. 
+Also working on my blog/home site
+- I added some animations, will send link once done
+- Restarted the polls app tutorial on the Django blog
+- Solved two problems using python
+- Revised some Python again.
+- Learned how to use flask log-in.
+- Made some corrections to a program I wrote a while ago
+- Learned how to use Python sockets and built a small client server app.
+Check this cool video
+- Got started with TensorFlowjs and built the first 2 Google codelabs about it and used the MNIST dataset
+- Also learned about generators in JavaScript
+- Started designing a logo for my blog in CSS
+Best of luck with you exams man
+Responsively, A web developers browser. I haven't tried it but it seems very good.
+Get fonts for your web apps and websites here -&gt; 
+Oracle acquired tiktok US operations. 
+Tiktok be like : "Record Once, Watch Anywhere" (ROWA)
+"Whatever you are, be a good one"
+                      - Abraham Lincoln
+Good morning twitter friends
+True
+Error : Call back never called
+Warn : This may cause security issues
+Run the following command : rm -rf .
+Improved my special app
+Worked on a special note taking app too - It may be done tomorrow.
+Exhausted by JavaScript and NodeJS. I've been getting weird errors and behaviours.
+We now have laptops specially for machine learning. Tensorbooks
+You definitely  try that
+I joined hashnode
+I will prepare my first blog post soon.
+Started working on a special web app. Coming soon
+- Solved an algorithm problem
+Learning about linked lists in python
+Also built a simple chat app with NodeJS learning socketIO
+Face detection with OpenCV-python and a pre-trained dataset.
+Get 3 free ebooks for the "International Day of programmer". 
+Less code
+I read more about React.js .
+Started planning for my next app.
+The HTML "base" tag allows you to specify a base URL for all the URLs in your page
+Improved my URL shortening app.
+Working on new functionalities and building the front-end.
+I'm using flask as backend
+Should you run your app against NodeJS in production ? I don't know 
+But I found this helpful posts
+Installed 
+ - bootstrap and bootstrap icons .
+- jQuery
+- Chart.js
+* Learned about some Django template filters
+Practicing building full stack apps with NodeJS, express, MonogoDB. 
+GitHub pages
+Free static site hosting, 
+Free SSL and your domain is yourname. GitHub. io
+Easy to use backend as a service similar to heroku
+Free tier.
+Free SSL and subdomain
+A good free hosting services.
+Ships with additional capabilities like Auth, form validation and more
+Free SSL and subdomain
+Integrates well with version control
+Easy to use
+Free for static site hosting
+Free SSL and subdomain
+Good free plan
+Allows version control
+A free backend as a service app.
+Allows hosting Fullstack apps
+Supports many languages and frameworks
+Free SSL and subdomain
+Can be tricky to host app
+Integrates with version control
+Good free plan
+A backend as a service app . 
+Provides a great free plan and it's very easy to use.
+Provides SSL certificate for hosting
+Has a CLI
+Allows creation of cloud functions
+Free subdomain
+A free hosting service for JavaScript apps only.
+Support NodeJS for backend.
+Provides SSL certificate
+Doesn't ship with CLI
+Free online tool to create apps.
+Integrates with GitHub.
+Has built-in editor.
+Supports many languages and frameworks - easy to use
+Provides free random subdomain name.
+Provides SSL certificate
+A free static site hosting service 
+Has a CLI to deploy your app.
+Provides a free random domain name
+Doest provide SSL certificate
+A free hosting service.
+You can host both the front-end and Backend.
+Supports many languages such as Python, golang, NodeJS amd many more
+Provides SSL
+Provides you with a random subdomain name.
+Doesn't ship with CLI
+Allows collab
+Has built-in editor
+A free static site hosting service for your apps.
+ It's provides a free SSL certificate
+You get a free random subdomain name.
+Can host only static front-end.
+Has a CLI.
+Integrates with version control
+A free platform where you can host both the front-end and Backend of your app.
+ Supports NodeJS, Python, golang, ruby. 
+Provides free SSL certificate and a free domain. 
+Easy to use
+Has a CLI and integrates with version control
+Allow cloud functions
+I built a notes API by following a tutorial. I also setup MonogoDB locally. 
+I learned how to design a simple database schema for the app and also how to correctly organise my code.
+This art means boredom
+Do you recommend Auth0 for authentication ? Do you know other alternatives. Please comment 
+Good morning to y'all
+Fun fact : 
+Type anything followed be .js on Google and you'll get a result
+E.g house.js
+Best of all, it's very light (&lt;2mb)
+Get the IP address of a domain using python sockets
+I literally spent hours reflecting on what to use as front-end for my Django backend. Vue or React ?
+I came to this conclusion =&gt; I'll use Vue 
+Don't spend hours like me. Choose what you are more comfortable with and you know best.
+Code !!
+Make a moving banner with the HTML marquee tag
+Code comments be like : 
+"Time isn't money, because money can't buy time"
+                          - X
+Built a Portfolio and blog in Django. Still have to work on the styling 
+I learned alot about Django and understood some of the internals
+Difference between auto_now_add and auto_now in Django DateTimeField :
+auto_now_add : Assigns the current date and time when an instance of your model is created
+auto_now : Assigns the current date and time when your model is saved
+ [*] You need rest
+ [*] You need rest
+Continue working on my app.
+Make async view functions in Django
+JavaScript 
+Java
+C/C++
+I've worked on my app. I also got to try Nuxt.js and it's very similar to Next.js.
+I am going to take some time off twitter. See !!
+SQL
+          pass
+I think I'll make use of it. Mostly to reach people where other payment methods aren't working well or even available
+"Direction is much more important than speed. Many go nowhere fast"
+2019 : Python3
+2020 : HTML, CSS, JavaScript, Go, NodeJS
+Beginner tip : 
+Watch (use) tutorials to learn how to build apps
+Use the documentation to understand how it works 
+Always take down all Project ideas you get . Please !
+Did you know ?
+In python, we don't have variables. We instead have names. 
+53+
+$wget &lt;link-to-profile-picture&gt; 
+Then modify it in my editor
+Is it me or this tweet got me 36+ followers this morning ? Sick!!
+Nullish coalescence in JavaScript.
+null and undefined are ignored and the next option is automatically taken. 
+Do the maths first, then we can discuss
+I am migrating to React.js .
+This is because the operation involves complex numbers and the regular math module can't solve it
+Learn about decorators in Python
+They are very helpful to add functionality to your other functions. 
+Hey. Is there any tool that can help me achieve this -&gt; 
+uuid
+One of the good reasons why there are diagrams on a site is to explain better what they provide as service.
+So this argument have been around for a long time ( and it will probably continue to be for long again)
+In this short post, I try to answer the question by also making use of one of the largest source of information.
+Did you know about Enums in python ? They are very helpful to store related values in an orderly manner.
+Problem solve : after several trials
+Why is GitHub not pushing my code. Is there any problem on GitHub ?
+Do you agree with me Twitter is the most weird social media platform you've used ? Do you know any other that doesn't provide an edit button, a bookmark/save feature....
+Okay this question has been itching me for some time. What is the minimum age to work (as a developer) ?
+Learn and master :
+- One language
+- One framework
+- One backend stack
+...Before moving to another
+ ^^^^^^^^^^^^^^^^^^
+I meant : I still don't
+I still fine get why most examples on how to build a RESTful API excludes handling POST request -&gt; especially when handling JSON data. Any valid reason... ?
+Did you know about type annotations in python ?
+They are very useful and they beautify your code (or atleast to me)
+Hey. I know this is not stackoverflow but I need help from you guys. My API is always returning an empty object on POST request. I've tried using quotes too on making the post request. Please HELP
+JavaScript quizz 
+What's the output ?
+React or Vue : My opinion 
+I found this once in a while . 
+It took about 1 minute for my "git commit" to take effect
+After a looking time ( I don't understand) I could recover my twitter account. Forgive me guys it was an error
+I love Vue.js because I can keep my data and methods that act on them in an orderly manner. I can easily track them down. There is no complication. It's just easy to use but powerful.
+What do you prefer to build ?
+Can I leave this here ? Comment what will be the output . 
+Thanks very much to this community
+This is great. Mozilla has a browser dedicated to developers . 
+I can't miss to try it once in a while
+If ever you were to advice a beginner learning frontend who want to go directly to a frontend library like react, what will you tell him ? Please comment 
+explainRecursionInAFunction() {
+  explainRecursionInAFunction()
+Python quiz
+What will be the output
+I just went through this. It looks like flask but using async Python.
+Get all the keywords in python
+I had left of for a long moment but back. Or maybe not ?
+It looks simple - the way I like it
+The Schrödinger's code: Your code won't break until you test it.
+Do you code on phone ? Android ?
+It's the best REST API client I've ever used. It feels like postman.
+This is just amazing 
+.then(request =&gt; request.json)
+.then(data =&gt; {
+  //Make my HTML element text attribute to be the weather data
+})
+Just a side note. The bar showing "localhost" instead shows the current domain on which it runs. (In this case, localhost)
+Hey. I am looking for developers in Cameroon . Please comment if you are and your tech stack if possible.
+I played with turtle python and learned alot through the built in docs in the terminal 
+I am learning Django through the docs. While that, I was building the example poll app. I am halfway to completion. It's fun to try and fail, and correct yourself.
+Hey. Have a nice day. See you
+JavaScript .
+A good note. I surely missed out something. Please forgive me again . Errors 
+I worked on my Django project. Also learn more about Python data structures &amp; methods and playing with APIs
+Hey. Good morning. Keep going and have a nice day
+Githack is cool 
+The hardest part in a project is starting. Any tips ? Share below
+Retweet for reach
+I love Python
+Raw\tString
+Works well here but not with python
+Sometimes I get annoyed of the architecture problems with python. I am stuck with my Django project because the library I use doesn't support Android. I am left with NodeJS only. I don't encounter that issue with NodeJS. So painful.
+Fact: JavaScript is the most weird language I've ever used.
+Yeah, you can learn programming without spending a menu on a paid course
+I didn't feel very fine today so I couldn't code. But I now feel somewhat better and registered for Twitter developer account to build a bot. Application in review process
+In python, we do not have arrow functions but we do have anonymous functions.
+Example : 
+square = lambda x: x*x
+print(square(x))
+false
+Arrow functions refer to the highest object in the stack (in this case the window object). Normal functions are scoped (in this case, the object)
+What will be the output ? Comment 
+Big thanks for this. Can I have a copy ? I can't find a way to DM you 
+Thanks
+Big thanks for this. Can I have a copy ? I can't find a way to DM you
+For loop
+Recursion
+Backend
+RESTful
+Ruby on rails
+Pair programming
+Damn it's hard but good challenge
+I didn't code today but I played with python on paper . I finally made a choice on my stack and to not use NodeJS apart for frontend development.
+I will be using python for the backend of my apps and all other stuff while JavaScript in frontend and Vue
+Your IQ doesn't determine your intelligence. It's just a value, a variable, your state of mind can make the difference
+I can't believe I am so near to the end of my 100DaysOfCode challenge. After this, it will be applyMyAcquiredSkills()
+Love : Python, Gdscript, Vue.js
+Improve: Hardworking
+Delete: Confusion and laziness
+addEventListener("click", () =&gt; {
+ counter += 1
+}
+The number increments when you click the circle
+A link to the GitHub repo if you can help :
+I just woke up and restarted the game Dev. I am feeling bad because I can't figure how to implement procedural map generation. I made one by following a tutorial but I am not sure to still get. Then the project is pending. I will make games with pre-designed level or single scene
+The future be like : 
+Dude A: Upload your skills on GitHub
+Dude B : git clone the skills
+Winner winner
+Learn about local storage . Do you remember w3schools ?
+Live server
+Prettier
+Wait what the h...
+Why do people advice to use react after they learn HTML, CSS and JavaScript.
+Please what are your own reasons or why you think it should be done as such. Please retweet for reach
+Thanks for the quiz. Continue making quizzes
+I believe in myself
+The hint  was there though
+More work on my maths library
+Back to practicing some Vue.js
+Do you need a new kind of to-do app. 
+Please comment the features you would like in one (which may not yet be available in other apps)
+Hey. Put a smile on your face and have a nice day
+Have you ever try this ? I just passed around it in a discord channel
+I feel like i need to build a mathematics based library to improve my skills. Statistics and probability library. I will start planning and implementing the way it will work while at school today. That will be my main work for sometime
+I've been off twitter and coding  for sometime. Wise just busy with school but i am back to it
+How much do you like the new github design ?
+Comment
+['fish', 'dog']
+The reason is that for the first one, the function like tried to reassign num to itself + 1. Constant can't be reassigned but modified. That's why the second function can modify the inner value of the constant (but not reassign the constant)
+ - Java
+- JavaScript 
+- Python
+Languages I want to learn :
+- Java
+- Python
+- JavaScript
+I cannot stop learning them. I find new things everyday
+One of the reasons I love Vue.js is that it makes me feel I am using a frontend version of Python flask
+I am 2 followed away from 200. It's amazing how much I covered since I started using my twitter account.
+I made a calculator in JavaScript by following a tutorial. I am happy to have learned some new stuff.
+After studying tonight I will install Emacs &amp;&amp; spacemacs/ vim &amp;&amp; spacevim (aka both) in my terminal.
+You are a great person . Never forget that 
+It's awesome what I've learned from Vue without a tutorial. But since I got stuck on remaking my site, a tutorial can be helpful. Welcome home . Some components still don't display 
+Okay so I could go a long way to completion of my site. I created some Vue components and passed data to then to display text data for now. I made a component to display images of languages and frameworks I use. I encountered alot of bugs this time and there is no useful log.
+Is it me or Vue is trying to throw me away. Probably me or the fact that it sucks to have multiple terminal sessions to edit your files and it eventually becomes crap and headaches
+Learn about the console object in JavaScript 
+Deployed the first app I built while learning rest API last year.
+I think I should leave what I am doing now and finish my portfolio presentation ()
+ .then(data =&gt; {
+   publishMyBlog()
+   writeMyFirstBlogPost(data)
+)
+Python beginner challenge
+ I can build without spending any money
+Did I just discover the best alternative to heroku ? 
+RT for reach
+I cleaned my terminal by uninstalling and reinstalling it with node, python, go and the libraries I mostly use. Working more on my app. I watched videos to learn closures, sting interpolation and more
+The best express crash course I've seen so far
+Register with Twitter account
+Use Twitter to login
+False
+2: Student in secondary school
+3: Become a software developer
+Who still uses mustache.js ?
+10
+This app makes it easy for me to have colours in different forms: RGB, rgba, hex and even hsl
+Share 
+I am planning to do opensource contributions later in the week. I am somewhat a beginner in that. Can you advice me some Projects ?
+Skill: Python, JavaScript (web development), NodeJS any project that relates
+Comment a recommendation 
+Thanks
+When you want to learn something new, what's your method - what are you more comfortable with ?
+Play with Vanilla JavaScript part 1
+Are you developing a PWA ?
+Do you want to deliver it to the store ?
+What do you prefer ?
+Linux
+Mac
+Do you prefer subdomains or subdirectories ?
+Coloured output in Python 3
+Learn about push notifications for your website and PWA
+Who who loves &lt;br&gt;
+Almost done with my markdown blog (though I restarted from scratch - it is annoying yes)
+Working on my Vanilla Js skills now. I will launch the blog in some hours (my mobile data bundle alloys finished - I can't upload it). Going to profit and tweat it.
+- Finish my markdown blog
+- Create the Todo app idea I got and Launch
+- Build a blog for a friend 
+- Build a site for a friend business
+- Make a markdown editor
+Typo: Almost
+222 lines
+Learned alot about CSS illustrations. Back to my website and game
+You will be shocked viewing this on PC. Made this on mobile so I did not test on PC
+There is 30, 100, 365 days of code. What about a challenge specific to mobile ?
+I felt very excited about the previous things and currently coding on mobile. I can do almost any web dev stuff in almost any of the popular languages.
+Ask questions
+Be patient
+Do you have any advice on techniques to start out working with a new framework without a tutorial, just the docs
+Me: Read, practice, ask questions to  those working on library where I need help, build something with it.
+Do you have suggestions ?
+This made me get reminded of the ::before and ::after directives
+Made some vue.js component for my website/blog. Started learning how to implement markdown for blog posts .
+Me learning Vuejs
+FreeCodeCamp going to teach me react for frontend. That's amazing
+But I mean simulation with comets, starts and all the rest
+Learned how to use Godot particle system .
+ Also downloaded more tutorials to learn and practice at any time
+You Can Code. Don't be discouraged at the beginning. It's the longest part but worth. 
+Sorry  to the Twitter community. Exams got me very busy (and it not yet finished). I am back. Due to some lack of time, I just made a python function to classify items in a list according to their data types.
+I am back to my game asap tomorrow
+I am back from school and have learned on destroying nodes for my endless Dino game.
+I was very busy with school and also had no electricity here but I am back. I am continuing my journey for sometime on FreeCodeCamp and then Python.
+I feel like after building my current game, I will try to reproduce their most popular game : Traffix.
+Looks so good.
+Especially that Gdscript is just like python and I know python well + aswell as some Gdscript for the previous games I worked on.
+To everyone : Stay safe. The world is a dangerous place and you can only be sure of yourself - Believe in yourself. Do good to all those you can . Don't say "I will do it tomorrow" - tomorrow doesn't exist. When your clock turn to midnight we are still today - never tomorrow
+["Angular", "Nuxt.js", "Vue.js"]
+In that order
+I can't believe I went so far. Thanks for all your support.
+I always wondered what lodash was. Now I get it - it's a library that will make it easy to do some utility task in JavaScript.
+Made with Vanilla Js
+Made with Python Flask
+Yeah they are both about the same thing. Hell
+THE TWITTER DEV COMMUNITY IS COOL
+The only drawback is that you have to export you project .
+Is it me or Twitter refuses some emojis
+Humm. In 6 hours I will know your opinions.
+Do you recommend any project ideas for beginners. I think the app I am building is waaaay to big for someone starting out with JavaScript. I could make it in python but I want JavaScript.
+Me :
+HTML
+Java (left out now)
+Python
+CSS
+JavaScript + NodeJS
+FaunaDB
+Remember :
+The rest and spread operator can save you time
+Still learning javascript. ES6 object freezing -&gt;
+Ok so I had hard times with recursions in JavaScript but I am back. Just found this handy resource.
+Just passing around. Dont give up with what you are doing.
+Just a meme
+Just another handy resource
+I learned Programming for free (and I am still learning) . I guess I should share resources for others
+You definitely don't need to pay a cent to learn programming really well. Google is there, YouTube too. There are also free ebooks and platforms you can learn from.
+"If you want to get a good programming job at any of the top companies, you need to learn programming and become good at it. For that, buy a top course on Udemy, or Coursera.."
+That's right and not at the same time. You need to learn and learn well. Thread -&gt;
+Yes. You can be a programmer. Just work hard
+Free hosting services for your website and web apps.
+Thread -&gt;
+I am starting to get react. Will try converting my app to use react.
+Idk what took me that day
+And you think you have encountered all error codes
+The Josias stack: 
+Jenkins
+OpenGL
+S3
+IPython
+Apollo
+Spring
+First post using my fork of telmo's blog 
+Learn Deno crash course
+Amazing 
+I tried out something crazy. And it worked [somehow]. Vscode on my android device.
+Specs :
+- CPU : Snapdragon 1.5Gz Octa Core
+- Ram : 3Gb
+- HDD: 32Gb
+Android : 8.0
+Using termux and Ubuntu.
+Shorter and better video on regular expressions
+For us developers who don't have pc or like challenging - coding on mobile. Try out this nice app. It's the one I use to code .
+Made in HTML and CSS. Next target is add functionality
+I had sometime learning JavaScript + Basic react. 
+Tonight, I am chaining to be better with promises and async/await
+Notice the bug I made in copying the string. It's supposed to be 3 dots not four
+JavaScript is cool.
+I once said. But I usually listen to the silly comments of others who uses it - "Do it in Java", "Do it in Kotlin" "Use JavaScript"
+Deno hypers : 
+One of the things I always had problems with is Regular expressions - This JavaScript video simplifies it . Let's share
+It's not because a quotation is written by someone well know or great that it should be implemented. We take them with us because they mean something to us
+Summary of my toolset 
+Editor : Termux&gt;Micro, Spck editor, TrebEdit
+Compiler/Interpreter : Termux&gt;NodeJS, Python, Pydroid3
+Languages: JavaScript, Python and minor Golang, C/C++, Java
+I classify myself at beginner though the much experience in learning for about 2.5 years
+Hover effect too not cool (not smooth)
+The title should have been : 
+"Useful JavaScript snippets that you !can understand in 30 seconds"
+Please notice the "!" Sign 
+Today I tried making a CDN file downloader but apparently it always open the link instead of downloading. Have problems with triggering downloads. Help appreciated. 
+I am shouting : "I LOVE CATS"
+Google Accelerated Mobile Pages 
+Now going to rest. I will start JavaScript tonight or tomorrow
+I am 1 project away from the Responsive web design certificate. Let me do it
+Today I am trying to complete the responsive web design projects. I just made a product page .
+I learned much with kivy/kivymd and I am going to migrate my bill app to Java (building android native). Like that I am sure it will work - it's practically not possible to setup bulldozer correctly on mobile
+MDN web docs on SVG 
+Just did the first FreeCodeCamp Responsive Web design project. Looks simple design - the way I like
+I am migrating the blog to Django
+Still working on my bill app
+I meant 
+I built a blog for a friend in flask and deployed to heroku
+I did not signal during those days
+I worked on my Programming skills and mostly web
+Many people use Vuejs, React, or Angular. But did you ever try another one like HyperApp. It looks good. I also feel it's similar to react +&gt;
+Played with JavaScript. MDN are good resources to learn web development and JavaScript .
+Now learning to build a simple proxy web server in python
+Studied again on FreeCodeCamp.
+Playing with what I learned
+- Studied applied visual accessibility on FreeCodeCamp. 
+- Continued to work with Django
+Experimenting with code
+Making use of python and flask
+Web development and Rest api
+- Still working on my site
+Also taking coding challenges on 
+- Learned how to build a pomodoro timer 
+- Still revising android and python stuffs - nodejs
+A post I wrote about 2 months ago 
+Goal Kicker have cool books if you wish to learn some Programming. Beware of the complexity of some books. They are not always clear in explanation. But they anyway a good resource.
+- Made a weather forecast app
+Being a web developer (or why not just developer ) without a website is like being a farmer without a farm. It just doesn't make sense
+- Working on a freaking blog
+- Building a server for my next mobile app
+Last day I didn't notify.
+- Worked with NodeJS building a blog
+- Yesterday and today too and working on a markdown editor
+- Learn vuejs
+- Practicing
+Built a new app to present covid19 data just like the previous one but this time instead of using python, I used JavaScript. The previous one will be removed in 12 hours.
+- Revised core JavaScript
+- Learned how to use The web speech api
+Just updated my personal website 
+- Learned the basics of Godot shader fragments and few methods on canvas items.
+- Started learning to build app backend in golang for my next major apps
+- Installed c/c++ compiler to revise again the language abit 
+ Finished a game and submitted to store.
+- Started some other game projects
+- Trying to do a Collab app for teachers due to the covid19
+Still sharing the link to my previous app to inform Cameroonians 
+An app to get Cameroonians remain informed on the pandemic in the country 
+Had some error in keeping up counting the number of days I did
+Worked on a game
+Working with bootstrap on a website with python
+- worked on a Project
+Made a small game
+Revised some CSS
+Made some game assets (sprites)
+- Revised some CSS
+- Working on a website for someone
+What do you use most?
+The first app I built today a new simple website for myself 
+Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook
+Currently coding : python, JavaScript
+Wish to learn : golang
+What do you prefer between flexbox and CSS grid 
+App done.
+Just to signal that the flask runtime doesn't work well but still you can download a video's first stream when in the terminal.
+I spent most of my time trying to figure out the problem.
+My new channel launch video. Don't care. JUST WATCH
+Setting up my new YouTube channel
+Just making some kind of "survey". Answer the question in comment below. 
+What is the pain you encounter in your daily life which you think can be solved by a software.
+Or 
+I am bored and need ideas to build a software that will be useful.
+Thanks for answers.
+Hello everyone. Just to ask if anyone wishes to help me . Actually I don't have access to enough fund (14 years) to buy a raspberry pi and pay for other stuff that I really. Any kind person wishing to donate thanks much. I accept only bitcoin
+Pass the AWS Certified Solutions Architect Exam with This FREE 10-Hour Course
+APIs for Beginners - Learn how to use APIs in this free video course
